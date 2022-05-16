@@ -1,2 +1,2 @@
 # Recurring endpoints
- Code I wrote for a winter project with Rui Wang on recurring endpoints
+ Code I wrote for sample size re-estimation analysis and simulation for the LOFT trial with Rui Wang.
